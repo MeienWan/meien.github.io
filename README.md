@@ -12,3 +12,4 @@ Why am I taking this course?
 What's this website for?
   Well... Initially it's just a homework requirement. But 来都来了，maybe I should grasp this chance to record something interesting from this course and maybe some of my thoughts during this amazing journey ( as I'm sure it would be! )
   So maybe I would choose it to be a kind of diary to record my progress of this course!
+  And I really hope this won't be too foggy for me and I can really grasp the important ideas deeply in mind!
