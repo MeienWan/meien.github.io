@@ -4,11 +4,8 @@
   A little something about my hobbies: I LOVE sports! And badminton is my FAVOURITE! I also enjoy many others like tennis, table tennis, hiking and so on...
 
 
-<img src="IMG_2174.JPG" alt="me" width="300" style="border-radius:10px;">
-<img src="IMG_5668.JPG" alt="badminton" width="300" style="border-radius:10px;">
-
-
-
+<img src="IMG_2174.JPG" alt="me" style="width: 200px; height:300px;" >
+<img src="IMG_5668.JPG" alt="badminton" style="width: 200px; height:300px;">
 
 ## _Why am I taking this course?_
  Well... The short answer is that I don't have enough credits and was facing the danger of underload... All other courses were either already full, or conflicts in time, or have a pre-requisite I didn't meet.
