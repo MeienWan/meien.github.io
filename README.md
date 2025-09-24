@@ -2,8 +2,8 @@
 ## _About Me_
   Hellooooo! My name is Wan Meien, and you can also call me Mary. I'm currently a year 2 student majoring in Electronic Engineering. 
   A little something about my hobbies: I LOVE sports! And badminton is my FAVOURITE! I also enjoy many others like tennis, table tennis, hiking and so on...
-![me](/IMG_2174.JPG){:width="300px"}
-![badminton](/IMG_5668.JPG){:width="300px"}
+![me](IMG_2174.JPG){:width="300px"}
+![badminton](IMG_5668.JPG){:width="300px"}
 ## _Why am I taking this course?_
  Well... The short answer is that I don't have enough credits and was facing the danger of underload... All other courses were either already full, or conflicts in time, or have a pre-requisite I didn't meet.
   So at the second week, I went to the Class Schedule & Quota site and found this course with very loose pre-requisite and a lot of available quota! And I surprisingly found Prof. Meng to be so young hahaha! (When I first saw his photo I thought this is a student or a TA lol)  And more surprisingly, he's got an A+ ranking on UST randkings!
