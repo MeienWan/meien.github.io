@@ -1,6 +1,6 @@
 # meien.github.io
 ## _About Me_
-  Hellooooo! My name is Wan Meien, and you can also call me Mary. I'm currently a year 2 student majoring in Electronic Engineering. 
+  <h3>Hellooooo! My name is Wan Meien, and you can also call me Mary. I'm currently a year 2 student majoring in Electronic Engineering. </h3>
   A little something about my hobbies: I LOVE sports! And badminton is my FAVOURITE! I also enjoy many others like tennis, table tennis, hiking and so on...
 <div style="display: flex; gap:20px; flex-wrap: wrap; justify-content: center;">
 <img src="/IMG_2174.JPG" alt="myself" style="width:500px; height:auto; border-radius: 10px">
