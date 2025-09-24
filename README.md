@@ -10,6 +10,6 @@ Why am I taking this course?
   During the time when I was going through the course website and slides to catch on the previous ones, I was getting assured by the fun stuff the fun way that prof teaches and speaks, that I've made the right choice by enrolling into this course!
 
 What's this website for?
-  Well... Initially it's just a homework requirement. But 来都来了，maybe I should grasp this chance to record something interesting from this course and maybe some of my thoughts during this amazing journey ( as I'm sure it would be! )
+  Well... Initially it's just a homework requirement. But maybe I should grasp this chance to record something interesting from this course and maybe some of my thoughts during this amazing journey ( as I'm sure it would be! )
   So maybe I would choose it to be a kind of diary to record my progress of this course!
   And I really hope this won't be too foggy for me and I can really grasp the important ideas deeply in mind!
