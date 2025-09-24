@@ -1,6 +1,6 @@
 # meien.github.io
 ## _About Me_
-  <h3>Hellooooo! My name is Wan Meien, and you can also call me Mary. I'm currently a year 2 student majoring in Electronic Engineering. </h3>
+  <h3>Hellooooo! My name is Wan Meien, and you can also call me Mary. I'm currently a year 2 student majoring in Electronic Engineering. 
   A little something about my hobbies: I LOVE sports! And badminton is my FAVOURITE! I also enjoy many others like tennis, table tennis, hiking and so on...
 <div style="display: flex; gap:20px; flex-wrap: wrap; justify-content: center;">
 <img src="/IMG_2174.JPG" alt="myself" style="width:500px; height:auto; border-radius: 10px">
@@ -16,4 +16,4 @@
 ## _What's this website for?_
   Well... Initially it's just a homework requirement. But maybe I should grasp this chance to record something interesting from this course and maybe some of my thoughts during this amazing journey ( as I'm sure it would be! )
   So maybe I would choose it to be a kind of diary to record my progress of this course!
-  And I really hope this won't be too foggy for me and I can really grasp the important ideas deeply in mind!
+  And I really hope this won't be too foggy for me and I can really grasp the important ideas deeply in mind!</h3>
