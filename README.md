@@ -4,8 +4,8 @@
   A little something about my hobbies: I LOVE sports! And badminton is my FAVOURITE! I also enjoy many others like tennis, table tennis, hiking and so on...
 
 <div style="display: flex; gap: 15px;">
-<img src="IMG_2174.JPG" alt="me" width= "200" >
-<img src="IMG_5668.JPG" alt="badminton" width= "200">
+<img src="IMG_2174.JPG" alt="me" width= "300" >
+<img src="IMG_5668.JPG" alt="badminton" width= "300">
 </div>
 
 
