@@ -1,3 +1,17 @@
+<style>
+body{
+  color: #1D3557;
+  font-size:18px;
+  line-height: 1.6;
+}
+
+
+
+  
+</style>
+
+
+
 # meien.github.io
 ## _About Me_
   Hellooooo! My name is Wan Meien, and you can also call me Mary. I'm currently a year 2 student majoring in Electronic Engineering. 
