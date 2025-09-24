@@ -2,6 +2,10 @@
 ## _About Me_
   Hellooooo! My name is Wan Meien, and you can also call me Mary. I'm currently a year 2 student majoring in Electronic Engineering. 
   A little something about my hobbies: I LOVE sports! And badminton is my FAVOURITE! I also enjoy many others like tennis, table tennis, hiking and so on...
+![](../IMG_2174.JPG)
+![](../IMG_5668.JPG)
+
+  
 
 ## _Why am I taking this course?_
   Well... The short answer is that I don't have enough credits and was facing the danger of underload... All other courses were either already full, or conflicts in time, or have a pre-requisite I didn't meet.
