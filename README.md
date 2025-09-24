@@ -4,6 +4,12 @@ body{
   font-size:18px;
   line-height: 1.6;
 }
+  h1{
+    color: #264653;
+    text-align: center;
+  }
+  h2{color: #2A9D8F;
+    }
 
 
 
