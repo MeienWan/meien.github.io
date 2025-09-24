@@ -2,8 +2,8 @@
 ## _About Me_
   Hellooooo! My name is Wan Meien, and you can also call me Mary. I'm currently a year 2 student majoring in Electronic Engineering. 
   A little something about my hobbies: I LOVE sports! And badminton is my FAVOURITE! I also enjoy many others like tennis, table tennis, hiking and so on...
-![](../IMG_2174.JPG)
-![](../IMG_5668.JPG)
+![](/IMG_2174.JPG)
+![](/IMG_5668.JPG)
 
   
 
