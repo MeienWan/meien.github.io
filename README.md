@@ -8,12 +8,18 @@ body{
     color: #264653;
     text-align: center;
   }
-  h2{color: #2A9D8F;
+  h2{
+    color: #2A9D8F;
     }
+  .highlight{
+    color:#E76F51;
+    font-weight: bold;
+  }
+  .quote{
+    color:#2E86AB;
+    font-style: italic;
+  }
 
-
-
-  
 </style>
 
 
@@ -21,7 +27,7 @@ body{
 # meien.github.io
 ## _About Me_
   Hellooooo! My name is Wan Meien, and you can also call me Mary. I'm currently a year 2 student majoring in Electronic Engineering. 
-  A little something about my hobbies: I LOVE sports! And badminton is my FAVOURITE! I also enjoy many others like tennis, table tennis, hiking and so on...
+  A little something about my hobbies: I <span class="highlight"> LOVE </span> sports! And badminton is my FAVOURITE! I also enjoy many others like tennis, table tennis, hiking and so on...
 <div style="display: flex; gap:20px; flex-wrap: wrap; justify-content: center;">
 <img src="/IMG_2174.JPG" alt="myself" style="width:500px; height:auto; border-radius: 10px">
 <img src="/IMG_5668.JPG" alt="badminton" style="width:500px; height:auto; border-radius: 10px">
