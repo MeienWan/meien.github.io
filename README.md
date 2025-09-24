@@ -13,7 +13,6 @@
   Then I just decided to enroll ASAP. 
   During the time when I was going through the course website and slides to catch on the previous ones, I was getting assured by the fun stuff the fun way that prof teaches and speaks, that I've made the right choice by enrolling into this course!
 
-## _What's this website for?_
-  Well... Initially it's just a homework requirement. But maybe I should grasp this chance to record something interesting from this course and maybe some of my thoughts during this amazing journey ( as I'm sure it would be! )
-  So maybe I would choose it to be a kind of diary to record my progress of this course!
-  And I really hope this won't be too foggy for me and I can really grasp the important ideas deeply in mind!
+## _My expectation about the course_
+  When I took ELEC1200 last semester, communication network only accounts for last few lectures'content and it made me REALLY confused with different layers and so many new concepts covered within such a short period of time. And I stll remember that these slides are filled with terminologies explained in a very professional manner such that it was hard for me to even understand the explanations!
+  But this course will spend a whole semester explaining how network works so it's great! I hope I can fully understand the most important concepts and think thoroughly and don't leave any questions behind. Also, really hope that my team project can work out well haha!
